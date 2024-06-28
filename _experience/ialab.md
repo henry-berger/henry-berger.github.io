@@ -4,7 +4,7 @@ collection: experience
 role: "Undergraduate Researcher"
 permalink: /experience/intelligent_autonomy_lab
 date: 2025-04-01
-date_str: "January 2022-Present"
+date_str: "Jan. 2022-Present"
 location: "New Haven, CT"
 ---
 

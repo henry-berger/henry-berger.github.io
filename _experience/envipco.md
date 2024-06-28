@@ -4,7 +4,7 @@ collection: experience
 role: ""
 permalink: /experience/envipco
 date: 2024-04-25
-date_str: "August-May 2024"
+date_str: "Aug.-May 2024"
 location: "New Haven, CT"
 ---
 
