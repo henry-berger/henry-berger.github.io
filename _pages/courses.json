@@ -1,0 +1,145 @@
+{
+    "Robotics": [
+        {
+            "name": "Intro. to Robotics, Control, and Learning",
+            "prof": "Ian Abraham",
+            "code": "MENG 443",
+            "year": 2023,
+            "sem": "F"
+        },        
+        {
+            "name": "Applied Planning and Optimization",
+            "prof": "Daniel Rakita",
+            "code": "CPSC 485",
+            "year": 2023,
+            "sem": "F"
+        },
+        {
+            "name": "Artificial Intelligence",
+            "prof": "Tesca Fitzgerald",
+            "code": "CPSC 470",
+            "year": 2023,
+            "sem": "S"
+        },
+        {
+            "name": "3D Spatial Modeling & Computing",
+            "prof": "Daniel Rakita",
+            "code": "CPSC 487",
+            "year": 2024,
+            "sem": "S"
+        },
+        {
+            "name": "Intro. to Embedded Robotic Systems",
+            "prof": "Ahalya Brabhakar",
+            "code": "MENG 405",
+            "year": 2024,
+            "sem": "S"
+        },
+        {
+            "name": "Intro. to Computer Vision",
+            "prof": "Alex Wong",
+            "code": "CPSC 480",
+            "year": 2023,
+            "sem": "S"
+        },
+        {
+            "name": "Mechatronics",
+            "prof": "Ian Abraham",
+            "code": "MENG 390L",
+            "year": 2023,
+            "sem": "S"
+        }
+    ],
+    "Computer Science": [
+        {
+            "name": "Algorithms",
+            "prof": "Dylan McKay",
+            "code": "CPSC 365",
+            "year": 2023,
+            "sem": "S"
+        },
+        {
+            "name": "Data Structures",
+            "prof": "James Aspnes",
+            "code": "CPSC 223",
+            "year": 2022,
+            "sem": "S"
+        },
+        {
+            "name": "Intro. to Systems Programming and Computer Organization",
+            "prof": "Abhishek Bhattacharjee",
+            "code": "CPSC 323",
+            "year": 2022,
+            "sem": "F"
+        }
+    ],
+    "Mathematics":
+    [
+        {
+            "name": "Discrete Mathematics",
+            "prof": "Daniel Douglas",
+            "code": "MATH 224",
+            "year": 2022,
+            "sem": "F"
+        },
+        {
+            "name": "Differential Equations",
+            "prof": "Robert Schoelkopf",
+            "code": "ENAS 194",
+            "year": 2021,
+            "sem": "F"
+        },
+        {
+            "name": "Linear Algebra",
+            "prof": "Yariv Aizenbud",
+            "code": "MATH 222",
+            "year": 2020,
+            "sem": "F"
+        }
+    ],
+    "Mechanical Engineering":
+    [
+        {
+            "name": "Dynamics",
+            "prof": "Edward Diehl",
+            "code": "MENG 383",
+            "year": 2022,
+            "sem": "S"
+        },
+        {
+            "name": "Statics",
+            "prof": "Diana Qiu",
+            "code": "MENG 280",
+            "year": 2021,
+            "sem": "F"
+        },
+        {
+            "name": "Mechanical Design",
+            "prof": "Rebecca Kramer-Bottiglio",
+            "code": "MENG 185",
+            "year": 2020,
+            "sem": "F"
+        },
+        {
+            "name": "Intro. to Electronics",
+            "prof": "Jung Han",
+            "code": "EENG 200",
+            "year": 2022,
+            "sem": "F"
+        },
+        {
+            "name": "Senior Capstone",
+            "prof": "Joran Booth",
+            "code": "MENG 487-488",
+            "year": "2023-2024",
+            "sem": "F-S"
+        },
+        {
+            "name": "Intensive Intro. Physics",
+            "prof": "Jack Harris",
+            "code": "PHYS 260-261",
+            "year": "2020-2022",
+            "sem": "F-S"
+        }
+    ]
+}

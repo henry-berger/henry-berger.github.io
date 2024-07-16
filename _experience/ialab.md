@@ -10,11 +10,11 @@ location: "New Haven, CT"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+Time-Optimal Ergodic Search
+------
 
-Heading 2
-======
+RAnGE: Reachability for Guaranteed Ergodicity
+------
 
-Heading 3
-======
+<!-- Third Project:
+====== -->

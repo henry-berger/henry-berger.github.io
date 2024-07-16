@@ -10,11 +10,8 @@ location: "Waltham, MA"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+Summer 2023: Simulation Test Infrastructure
+------
 
-Heading 2
-======
-
-Heading 3
-======
+Summer 2024: Rendering for Perception Tests
+------
