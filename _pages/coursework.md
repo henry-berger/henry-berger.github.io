@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Below the robotics-related classes I have taken at Yale
+Below is a selection of robotics-related classes I have taken at Yale:
 
 ### Robotics
 - Intro. to Robotics, Control, and Learning (MENG 443) _with Prof. Ian Abraham_

@@ -18,7 +18,7 @@ author_profile: true
 
 {% include base_path %}
 
-Below the robotics-related classes I have taken at Yale
+Below is a selection of robotics-related classes I have taken at Yale:
 """)
 
 

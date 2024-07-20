@@ -53,4 +53,6 @@ Publications
   
 Extra-Curriculars
 ======
-* Currently signed in to 43 different slack teams
+* [Yale e-NABLE](/portfolio/1_enable/): 2023-2025 (President 2024)
+* Yale Symphony Orchestra: 2020-22 (French hornist)
+* Yale Club Ultimate Frisbee: 2021-2025 (Treasurer 2023-24)
