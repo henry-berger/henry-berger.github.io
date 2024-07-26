@@ -17,7 +17,7 @@ For two summers, I interned with the simulation team in the Central Software dep
 
 ### Summer 2023: Simulation Test Infrastructure
 
-In my first summer, I worked on infrastructure for running simulations to test robot behaviors, using the MuJoCo physics engine. I contributed to the C++ backend, and I developed a Python API that enables robotics engineers to specify robot actions and check whether the simulated behavior matches expectations. Additinoally, I initiated and participated in an investiagation of discrepancies between different physics engines.
+In my first summer, I worked on infrastructure for running simulations to test robot behaviors, using the MuJoCo physics engine. I contributed to the C++ backend, and I developed a Python API that enables robotics engineers to specify robot actions and check whether the simulated behavior matches expectations. Additionally, I initiated and participated in an investigation of discrepancies between different physics engines.
 
 For this project, I coordinated among multiple internal groups to determine requirements for the simulation testing API. I subsequently organized and documented the internal rollout of the testing infrastructure, and I helped train software engineers to use the API.
 

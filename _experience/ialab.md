@@ -6,14 +6,14 @@ permalink: /experience/intelligent_autonomy_lab
 date: 2025-04-01
 date_str: "Jan. 2022-Present"
 location: "New Haven, CT"
-excerpt: "<i>The <a href='https://ialab.yale.edu/'>Intelligent Autonomy Lab</a> is a research lab in the Mechanical Engineering department at Yale, led by Prof. Ian Abraham. The lab focusies on controls for robotics.</i><br><br>I have conducted both individual and collaborative research, focused on robotic exploration with drones."
+excerpt: "<i>The <a href='https://ialab.yale.edu/'>Intelligent Autonomy Lab</a> is a research lab in the Mechanical Engineering department at Yale, led by Prof. Ian Abraham. The lab focuses on controls for robotics.</i><br><br>I have conducted both individual and collaborative research, focused on robotic exploration with drones."
 ---
 
 <i>The <a href='https://ialab.yale.edu/'>Intelligent Autonomy Lab</a> is a research lab in the Mechanical Engineering department at Yale, led by Prof. Ian Abraham. The lab focuses on controls for robotics.</i>
 
 I'm researching controllers for autonomous robots used for search and exploration. I'm mostly focused on the theory, but these methods have many applications, in areas such as search and rescue, mapping, and extraterrestrial exploration.
 
-More specifically, I'm working on controllers that perform [ergodic exploration](https://ieeexplore.ieee.org/document/7350162). Given an estimate of how much information is likely to be found in each part of the search space, the robot seeks to find an ergodic trajectory---a trajectory that, on average, spends time in each part of the serach space in proportion to how much information is likely to be found there.
+More specifically, I'm working on controllers that perform [ergodic exploration](https://ieeexplore.ieee.org/document/7350162). Given an estimate of how much information is likely to be found in each part of the search space, the robot seeks to find an ergodic trajectory---a trajectory that, on average, spends time in each part of the search space in proportion to how much information is likely to be found there.
 
 My research has had two main thrusts, listed below.
 

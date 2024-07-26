@@ -31,16 +31,16 @@ Skills
     * _Intermediate_: Blender, SolidWorks
     * _Basic_: Inventor, AutoCAD
 * **Simulation**
-    * _Basic_: Blender, MuJoCo. LTspice, MCNP
-* **Mathamtics**
+    * _Basic_: MuJoCo, Blender, LTspice, MCNP
+* **Mathematics**
     * _Advanced_: Multivariable calculus
     * _Intermediate_: optimization, linear algebra, differential equations
 * **Language**
     * _Native_: English
-    * _Intermediate_: French.
-    * _Basic_: German.
+    * _Intermediate_: French
+    * _Basic_: German
 * **Miscellaneous**
-    * _Intermediate_: Linux, Git, ROS, LaTeX, JAX, 3D printing.
+    * _Intermediate_: Linux, Git, ROS, LaTeX, JAX, 3D printing
     * _Basic_: gRPC, PyTorch
 
 

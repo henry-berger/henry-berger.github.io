@@ -6,7 +6,7 @@ collection: portfolio
 
 Here are some of my favorite 3D-printing projects:
 
-- <b>"Camera Flipper"</b>: In my first semester of college, all classes were online, and I wanted to have my camera on during the Zoom class. However, I take notes on my tablet, so I had to have my tablet flat on the desk, so the camera would point straight up and not show my face. I 3D-printed this "flipper" that holds a small mirror over the camera, so that I can be on video as I take notes.
+- <b>"Camera Flipper"</b>: In my first semester of college, all classes were online, and I wanted to have my camera on during the Zoom class. However, I take notes on my tablet, so I had to have my tablet flat on the desk, so the camera would point straight up and not show my face. I designed and 3D-printed this "flipper" that holds a small mirror over the camera, so that I can be on video as I take notes.
 <br/>
 <img src='/images/flipper.jpg' height="400" width="300">
 <img src='/images/flipper_in_use.jpg' height="400" width="200">

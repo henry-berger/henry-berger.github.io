@@ -5,9 +5,9 @@ permalink: /publication/range
 excerpt: 'This paper derives and implements a controller that guarantees safety and exploration of an area, despite time-varying hazards such as wind or moving obstacles.'
 date: 2024-08-01
 venue: 'TBD'
-paperurl: ''
-citation: 'Dong DE, Berger HP and Abraham I (2023). Time Optimal Ergodic
-Search. In: <i>Proceedings of Robotics: Science and Systems</i>. Daegu, Republic of Korea.'
+# paperurl: ''
+# citation: 'Dong DE, Berger HP and Abraham I (2023). Time Optimal Ergodic
+# Search. In: <i>Proceedings of Robotics: Science and Systems</i>. Daegu, Republic of Korea.'
 ---
 
 {:refdef: style="text-align: center;"}
@@ -17,7 +17,7 @@ Search. In: <i>Proceedings of Robotics: Science and Systems</i>. Daegu, Republic
 </p>
 {: refdef}
 
-This paper investigates performance guarantees on coverage-based ergodic exploration methods in environments containing disturbances. This is applicable in situations when the exploring robot must content with time-varying challenges, such as wind or moving obstacles. 
+This paper investigates performance guarantees on coverage-based ergodic exploration methods in environments containing disturbances. This is applicable in situations when the exploring robot must contend with time-varying challenges, such as wind or moving obstacles. 
 We formulate ergodic exploration as a game between the controller optimizing for ergodicity and an external disturbance, and then we use reachability analysis to find the optimal controller strategy.
 
 Once the paper is published, I will add a link to it.

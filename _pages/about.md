@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Henry Berger. I'm an undergraduate at Yale Unveristy, where I'm double-majoring in Computer Science and Mechanical Engineering, with a focus on robotics. I will graduate in Spring 2025, and I plan to pursue a PhD in robotics research afterwards.
+I'm Henry Berger. I'm an undergraduate at Yale University, where I'm double-majoring in Computer Science and Mechanical Engineering, with a focus on robotics. I will graduate in Spring 2025, and I plan to pursue a PhD in robotics research afterwards.
 
 <!-- <img src='/images/spot_selfie.jpg' text="Selfie of me with Spot at Boston Dynamics, where I worked for two summers"> -->
 {:refdef: style="text-align: center;"}

@@ -13,7 +13,7 @@ excerpt: '<i>The <a href="https://www.sas.rochester.edu/chm/groups/rothberg/">Ro
 
 I created GUIs to automate two experiments conducted by the Rothberg Lab. Both experiments use interferometry to detect trace amounts of substances, such as allergens in food or antibodies in blood. One experiment involved interfacing with an electrometer and a translation stage, and the other experiment involved interfacing with a CCD camera and three syringe pumps.
 
-The GUIs, written in Python using PyQt5, allow the experimentor to set up an experiment and then run it without further human intervention. The experimentor can also view the data in real time and intervene to adjust the experiment, if necessary.
+The GUIs, written in Python using PyQt5, allow the experimenter to set up an experiment and then run it without further human intervention. The experimenter can also view the data in real time and intervene to adjust the experiment, if necessary.
 
 <p>
 <img src="../images/rothberg_gui.png" alt="Screenshot GUI" height="400" width="400"><br>
