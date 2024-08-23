@@ -15,7 +15,32 @@ _[Boston Dynamics](https://bostondynamics.com/) is a robotics company that build
 For two summers, I interned with the simulation team in the Central Software department. In my first summer, I worked on tools for behavior tests in simulation. In my second summer, I built a pipeline for synthetic data generation for ML. 
 
 
-### Summer 2023: Simulation Test Infrastructure
+
+
+## Summer 2024: Synthetic Data Generation for Perception
+
+In my second summer, I built a pipeline for synthetic data generation using Blender. Boston Dynamics' robots use machine learning for perception tasks, and these models require training data. I developed a tool that lets engineers generate synthetic data for training, instead of relying entirely on images from the actual robots. I built the pipeline from scratch, including functionality such as loading a scene, adding objects, randomizing the scene, stepping physics to ensure realism, and generating and saving photorealistic images. The pipeline uses Blender on the backend, but the API is almost entirely renderer-agnostic and can be used with other render engines.
+
+### Scene Creation
+
+<p>
+    Placing a barcode on a box:<br>
+    <img src="../images/BD_images/barcode_placement.gif" alt="barcode placement" width=400><br>
+    <br>Placing boxes within a shipping container:<br>
+    <img src="../images/BD_images/scene_creation.gif" alt="scene creation" width=400><br><br>
+</p>
+
+#### Example: Barcoded boxes
+<p>
+    Real data to imitate:<br>
+    <img src="../images/BD_images/real_boxes.png" alt="scene creation" width=200><br><br>
+    Synthetic images: Depth, RGB, and annotated RGB:<br>
+    <img src="../images/BD_images/depth.png" alt="scene creation" width=200>
+    <img src="../images/BD_images/rgb.png" alt="scene creation" width=200>
+    <img src="../images/BD_images/barcode_annotation.png" alt="scene creation" width=200>
+</p>
+
+## Summer 2023: Simulation Test Infrastructure
 
 In my first summer, I worked on infrastructure for running simulations to test robot behaviors, using the MuJoCo physics engine. I contributed to the C++ backend, and I developed a Python API that enables robotics engineers to specify robot actions and check whether the simulated behavior matches expectations. Additionally, I initiated and participated in an investigation of discrepancies between different physics engines.
 
@@ -24,11 +49,3 @@ For this project, I coordinated among multiple internal groups to determine requ
 <p>
     <img src="../images/spot_mujoco.png" alt="Spot simulation" width=400><br>
 </p>
-
-### Summer 2024: Synthetic Data Generation for Perception
-
-In my second summer, I built a pipeline for synthetic data generation using Blender. Boston Dynamics' robots use machine learning for perception tasks, and these models require training data. I developed a tool that lets engineers generate synthetic data for training, instead of relying entirely on images from the actual robots. I built the pipeline from scratch, including functionality such as loading a scene, adding objects, randomizing the scene, stepping physics to ensure realism, and generating and saving photorealistic images. The pipeline uses Blender on the backend, but the API is almost entirely renderer-agnostic and can be used with other render engines.
-<p>
-    <img src="../images/blender_logo_socket.png" alt="Spot selfie" width=400><br>
-</p>
-
