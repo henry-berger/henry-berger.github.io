@@ -6,7 +6,7 @@ excerpt: 'This paper derives and implements a controller that guarantees safety 
 date: 2024-10-07
 status: "Accepted for publication"
 venue: 'Workshop on the Algorithmic Foundations of Robotics (WAFR)'
-# paperurl: ''
+paperurl: 'https://arxiv.org/abs/2404.03186'
 # citation: 'Dong DE, Berger HP and Abraham I (2023). Time Optimal Ergodic
 # Search. In: <i>Proceedings of Robotics: Science and Systems</i>. Daegu, Republic of Korea.'
 ---
@@ -21,4 +21,4 @@ venue: 'Workshop on the Algorithmic Foundations of Robotics (WAFR)'
 This paper investigates performance guarantees on coverage-based ergodic exploration methods in environments containing disturbances. This is applicable in situations when the exploring robot must contend with time-varying challenges, such as wind or moving obstacles. 
 We formulate ergodic exploration as a game between the controller optimizing for ergodicity and an external disturbance, and then we use reachability analysis to find the optimal controller strategy.
 
-Once the paper is published, I will add a link to it.
+<a href="https://arxiv.org/abs/2404.03186">Download paper</a>
